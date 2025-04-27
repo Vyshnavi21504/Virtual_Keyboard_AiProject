@@ -6,7 +6,6 @@
 A **touchless virtual keyboard** that uses hand tracking to detect gestures and simulate key presses. Control your computer using just your fingers and a webcam!
 
 ![Demo](demo.gif)  
-*(Replace with actual demo GIF/screenshot)*
 
 ---
 
